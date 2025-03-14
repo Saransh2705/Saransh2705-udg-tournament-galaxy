@@ -5,7 +5,6 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/udg-tournament-galaxy/",  // ⬅️ Add this line (Replace with your actual repo name)
   server: {
     host: "::",
     port: 8080,
